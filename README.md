@@ -10,5 +10,5 @@ Skills: PHP / Laravel / SQL / PostgreSQL / MySQL / Git / Linux / Docker / API / 
 - 📫 Для связи: https://t.me/sen-adilet 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/adilet-toichuev/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adilet-toichuev/)  
 
